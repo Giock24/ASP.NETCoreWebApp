@@ -11,3 +11,11 @@ label {
     font-size: 16px;
 }
 
+#the-form {
+    background-color: #808080;
+}
+
+#the-form input[type="submit"] {
+    background-color: #4cff00;
+}
+
