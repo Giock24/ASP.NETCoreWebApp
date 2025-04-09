@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YXmesMdWXqGb1SpNJ9QYbp3124xvoyyoYveLUlhY0Y0=",
+  "Hash": "/bXwu5r14wLOLst0FsTpvZj14BYfGzJjQQlVFNvW5UU=",
   "Source": "Test5",
   "BasePath": "_content/Test5",
   "Mode": "Default",
@@ -80,6 +80,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "Test5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\",
+      "BasePath": "_content/Test5",
+      "RelativePath": "css/StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yreea40xkx",
+      "Integrity": "TlwDXVvME6cfETE0mxIOrsHgY4/QVL901lszdKBsaUw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    },
+    {
       "Identity": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\favicon.ico",
       "SourceId": "Test5",
       "SourceType": "Discovered",
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jotmjp9vwk",
-      "Integrity": "PXntLyO8ck//ufj7wY0ECfTNP4v+cWBlU+0G0e6yrrY=",
+      "Fingerprint": "04fyl0g0mb",
+      "Integrity": "AEpKmr/pum7LJRig1GGQOuOLvBbOYygwDtwlE6DYQIk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Index.html"
@@ -1364,7 +1385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 15:40:45 GMT"
+          "Value": "Wed, 09 Apr 2025 09:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1409,7 +1430,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 15:40:45 GMT"
+          "Value": "Wed, 09 Apr 2025 09:43:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1420,6 +1441,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.css",
+      "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TlwDXVvME6cfETE0mxIOrsHgY4/QVL901lszdKBsaUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 09:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TlwDXVvME6cfETE0mxIOrsHgY4/QVL901lszdKBsaUw="
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.yreea40xkx.css",
+      "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TlwDXVvME6cfETE0mxIOrsHgY4/QVL901lszdKBsaUw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 09:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yreea40xkx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TlwDXVvME6cfETE0mxIOrsHgY4/QVL901lszdKBsaUw="
         }
       ]
     },
@@ -1506,6 +1609,51 @@
       ]
     },
     {
+      "Route": "Index.04fyl0g0mb.html",
+      "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AEpKmr/pum7LJRig1GGQOuOLvBbOYygwDtwlE6DYQIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 09:46:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04fyl0g0mb"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AEpKmr/pum7LJRig1GGQOuOLvBbOYygwDtwlE6DYQIk="
+        }
+      ]
+    },
+    {
       "Route": "Index.html",
       "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\Index.html",
       "Selectors": [],
@@ -1516,7 +1664,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "829"
+          "Value": "889"
         },
         {
           "Name": "Content-Type",
@@ -1524,11 +1672,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PXntLyO8ck//ufj7wY0ECfTNP4v+cWBlU+0G0e6yrrY=\""
+          "Value": "\"AEpKmr/pum7LJRig1GGQOuOLvBbOYygwDtwlE6DYQIk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 09:22:21 GMT"
+          "Value": "Wed, 09 Apr 2025 09:46:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1538,52 +1686,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PXntLyO8ck//ufj7wY0ECfTNP4v+cWBlU+0G0e6yrrY="
-        }
-      ]
-    },
-    {
-      "Route": "Index.jotmjp9vwk.html",
-      "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\Index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "829"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PXntLyO8ck//ufj7wY0ECfTNP4v+cWBlU+0G0e6yrrY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 09:22:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jotmjp9vwk"
-        },
-        {
-          "Name": "label",
-          "Value": "Index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PXntLyO8ck//ufj7wY0ECfTNP4v+cWBlU+0G0e6yrrY="
+          "Value": "sha256-AEpKmr/pum7LJRig1GGQOuOLvBbOYygwDtwlE6DYQIk="
         }
       ]
     },
