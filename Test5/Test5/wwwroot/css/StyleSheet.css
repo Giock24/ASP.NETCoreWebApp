@@ -19,3 +19,11 @@ label {
     background-color: #4cff00;
 }
 
+ul.Countries {
+    font-size: small;
+}
+
+ul.countries li {
+    list-style-type: none; /* Remove the bullet */
+}
+
