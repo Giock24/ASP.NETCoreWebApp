@@ -3,7 +3,8 @@
 <head>
     <meta charset="utf-8" />
     <title>Test Web App</title>
-    <link href="css/StyleSheet.css" rel="stylesheet" /> 
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css" />
 </head>
 <body>
     <h1>Welcome to this test web app</h1>
@@ -12,6 +13,10 @@
         <li>Brazil</li>
         <li>United States</li>
     </ul>
+    <div class="container mt-5">
+        <h1 class="text-primary">Ciao da Bootstrap!</h1>
+        <button id="btn" class="btn btn-success">Cliccami</button>
+    </div>
     <div id="the-form">
         <form class="our-form">
             <label accesskey="" for="Name">Name:</label> <br />
@@ -28,7 +33,7 @@
             <p></p>
             <label accesskey="" for="Message">Message:</label> <br />
             <textarea rows="4"></textarea> <br />
-            <input type="submit" value="Send Message" id="submitButton"/>
+            <input type="submit" value="Send Message" id="submitButton" />
             <p></p>
         </form>
     </div>
