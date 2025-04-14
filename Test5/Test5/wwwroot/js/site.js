@@ -6,5 +6,10 @@ var x = 0;
 var s = "";
 // alert("Hello. Welcome to our page");
 
-var theform = document.getElementById("the-form");
-theform.hidden = true;
+//var theform = document.getElementById("the-form");
+//theform.hidden = false;
+
+var Button = document.getElementById("submitButton");
+Button = addEventListener("click", function () {
+    alert("We are submitting the form...!");
+})

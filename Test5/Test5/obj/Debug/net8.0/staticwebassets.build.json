@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HF2e903fntoZiga8AAGlM7SOq+e7patkGq3AbDZqjG4=",
+  "Hash": "G5oGVmLqRuRXGSEt0g2Qqy9QLDMWqD0/AHQo0ktheIc=",
   "Source": "Test5",
   "BasePath": "_content/Test5",
   "Mode": "Default",
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6vql30y25m",
-      "Integrity": "Qv61ichKhqo4Jta00DFgyAcTEMLcntIrb71J7gNNefY=",
+      "Fingerprint": "81tnymlun4",
+      "Integrity": "RMPeLtnwfIGHh/FmY+IVR08C4pGQWn0YufQYF+iQDgQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Index.html"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c4lqqwa2xs",
-      "Integrity": "lBhavbpA1hyZ17q95x7SzQ8UkSTJW4gILnY/dGprqBg=",
+      "Fingerprint": "qtryxc4wbs",
+      "Integrity": "oo0qjE5+iCPP9eC0LTSPNpI8eAtHXj94avgYd5TNbgI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1609,7 +1609,7 @@
       ]
     },
     {
-      "Route": "Index.6vql30y25m.html",
+      "Route": "Index.81tnymlun4.html",
       "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\Index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1619,7 +1619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1184"
+          "Value": "1201"
         },
         {
           "Name": "Content-Type",
@@ -1627,11 +1627,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qv61ichKhqo4Jta00DFgyAcTEMLcntIrb71J7gNNefY=\""
+          "Value": "\"RMPeLtnwfIGHh/FmY+IVR08C4pGQWn0YufQYF+iQDgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 10:58:59 GMT"
+          "Value": "Mon, 14 Apr 2025 14:04:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1641,7 +1641,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6vql30y25m"
+          "Value": "81tnymlun4"
         },
         {
           "Name": "label",
@@ -1649,7 +1649,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Qv61ichKhqo4Jta00DFgyAcTEMLcntIrb71J7gNNefY="
+          "Value": "sha256-RMPeLtnwfIGHh/FmY+IVR08C4pGQWn0YufQYF+iQDgQ="
         }
       ]
     },
@@ -1664,7 +1664,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1184"
+          "Value": "1201"
         },
         {
           "Name": "Content-Type",
@@ -1672,11 +1672,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qv61ichKhqo4Jta00DFgyAcTEMLcntIrb71J7gNNefY=\""
+          "Value": "\"RMPeLtnwfIGHh/FmY+IVR08C4pGQWn0YufQYF+iQDgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 10:58:59 GMT"
+          "Value": "Mon, 14 Apr 2025 14:04:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1686,52 +1686,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qv61ichKhqo4Jta00DFgyAcTEMLcntIrb71J7gNNefY="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.c4lqqwa2xs.js",
-      "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "375"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lBhavbpA1hyZ17q95x7SzQ8UkSTJW4gILnY/dGprqBg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 10:57:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c4lqqwa2xs"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lBhavbpA1hyZ17q95x7SzQ8UkSTJW4gILnY/dGprqBg="
+          "Value": "sha256-RMPeLtnwfIGHh/FmY+IVR08C4pGQWn0YufQYF+iQDgQ="
         }
       ]
     },
@@ -1746,7 +1701,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "375"
+          "Value": "537"
         },
         {
           "Name": "Content-Type",
@@ -1754,11 +1709,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lBhavbpA1hyZ17q95x7SzQ8UkSTJW4gILnY/dGprqBg=\""
+          "Value": "\"oo0qjE5+iCPP9eC0LTSPNpI8eAtHXj94avgYd5TNbgI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 10:57:14 GMT"
+          "Value": "Mon, 14 Apr 2025 14:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1768,7 +1723,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lBhavbpA1hyZ17q95x7SzQ8UkSTJW4gILnY/dGprqBg="
+          "Value": "sha256-oo0qjE5+iCPP9eC0LTSPNpI8eAtHXj94avgYd5TNbgI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.qtryxc4wbs.js",
+      "AssetFile": "C:\\Users\\GianlucaConsoli\\OneDrive - NEWTEAM S.R.L\\Documenti\\Projects\\ASP.NETCoreWebApp\\Test5\\Test5\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oo0qjE5+iCPP9eC0LTSPNpI8eAtHXj94avgYd5TNbgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 14:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qtryxc4wbs"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oo0qjE5+iCPP9eC0LTSPNpI8eAtHXj94avgYd5TNbgI="
         }
       ]
     },
